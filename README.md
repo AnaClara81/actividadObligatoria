@@ -1,3 +1,3 @@
 # actividadObligatoria
 
-push al reposotorio
+push de prueba al repositorio
